@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           <div>My first React App</div>
-          <div style={{ color: "blue" }}>This is exciting!</div>
+          <div style={{ color: "purple" }}>This is exciting!</div>
         </a>
       </header>
     </div>
