@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          My first React App
+          <div>My first React App</div>
+          <div style={{ color: "red" }}>This is exciting!</div>
         </a>
       </header>
     </div>
